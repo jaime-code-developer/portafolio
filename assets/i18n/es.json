@@ -1,0 +1,231 @@
+{
+  "HEADER": {
+    "TITLE": "JAIME",
+    "LANGUAGE": "Idioma",
+    "DARK_MODE": "Modo oscuro",
+    "LIGHT_MODE": "Modo claro"
+  },
+  "SIDEBAR": {
+    "HOME": "Inicio",
+    "ABOUT": "Sobre mí",
+    "SKILLS": "Habilidades",
+    "EXPERIENCE": "Experiencia",
+    "PROJECTS": "Proyectos",
+    "CONTACT": "Contacto"
+  },
+  "HOME": {
+    "GREETING": "Hola, soy",
+    "NAME": "Jaime",
+    "PROFESSION": "Desarrollador Full Stack",
+    "DESCRIPTION": "Apasionado por crear soluciones digitales innovadoras y funcionales.",
+    "BUTTON": "Conóceme",
+    "CONSOLE_TEXT": "console.log(\"Bienvenido\");",
+    "TERMINAL": {      
+      "LINE1": "Especializado en crear aplicaciones web modernas y responsivas",
+      "LINE2": "Apasionado por el código limpio y las buenas prácticas de desarrollo",
+      "LINE3": "Siempre aprendiendo nuevas tecnologías y metodologías"
+    }
+  },
+  "ABOUT": {
+    "BIO_TITLE": "Sobre mí",
+    "BIO_TEXT1": "Soy un desarrollador web full-stack con experiencia en Angular, NestJS, Laravel, SpringBoot, NodeJS entre otros ademas de bases de datos SQL y NoSQL. Me apasiona crear aplicaciones web modernas y eficientes que resuelvan problemas reales.",
+    "BIO_TEXT2": "Actualmente estoy enfocado en mejorar mis habilidades en desarrollo de aplicaciones para dispositivos moviles así como en aprender nuevas tecnologías como Docker y Kubernetes.",
+    "DOWNLOAD_CV": "Descargar CV",
+    "DOWNLOAD_CV_SHORT": "Descargar CV Detallado",
+    "SKILLS_TITLE": "Tecnologías",
+    "TECH": {
+      "ANGULAR": "Angular",
+      "TYPESCRIPT": "TypeScript",
+      "JAVASCRIPT": "JavaScript",
+      "HTML5": "HTML5",
+      "CSS3": "CSS3",
+      "NODEJS": "Node.js",
+      "MONGODB": "MongoDB",
+      "MYSQL": "MySQL",
+      "GIT": "Git",
+      "GITLAB": "Gitlab",
+      "DJANGO": "Django",
+      "DOCKER": "Docker",
+      "DOTNET": "Dotnet",
+      "LARAVEL": "Laravel",
+      "NESTJS": "NestJS",
+      "POSTGRESQL": "PostgreSQL",
+      "SPRINGBOOT": "Springboot",
+      "IONIC": "Ionic",
+      "REACT": "React",
+      "BOOTSTRAP": "Bootstrap",
+      "MARIABD": "MariaDB",
+      "MATERIALDESIGN": "MaterialDesign",
+      "PRIMENG": "PrimeNG"
+    },
+    "EXPERIENCE_TITLE": "Experiencia",
+    "EXPERIENCE": {
+      "ROLE4": "Desarrollador Full Stack",
+      "COMPANY4": "Ketanolab | 2025 - Presente",
+      "DESC4": "Desarrollo de aplicaciones web con Angular y NestJS. Implementación de arquitecturas escalables y mantenimiento de bases de datos.",
+      "ROLE3": "Desarrollador Full Stack",
+      "COMPANY3": "Senarecom | 2022 - 2024",
+      "DESC3": "Encargado del desarrollo completo (frontend y backend) de módulos clave para la gestión de exportaciones mineras en la plataforma SINACOM 2. Donde se implementento funcionalidades robustas para registro de precintos, pesajes y reliquidaciones, asegurando trazabilidad y control institucional.",
+      "ROLE2": "Desarrollador Full Stack",
+      "COMPANY2": "Telecom Potosi | 2020 - 2022",
+      "DESC2": "Creación de interfaces de usuario usando patrones de diseño arquitectónico como MVC en frameworks como Laravel, CodeIgniter, Django. Implementación de diseños responsivos y optimización de rendimiento. Colaboración en proyectos ágiles con metodología Scrum.",
+      "ROLE1": "Desarrollador Web Junior",
+      "COMPANY1": "Facultad De Medicia - UATF | 2018 - 2019",
+      "DESC1": "Desarrollo de sitios web con HTML, CSS y JavaScript implementando Bootstrap. Mantenimiento de aplicaciones existentes y corrección de errores. Aprendizaje de frameworks modernos como Angular."
+    }
+  },
+  "SKILLS": {
+    "TITLE": "Mis habilidades",
+    "SUBTITLE": "Tecnologías y herramientas que domino",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "DATABASES": "Bases de datos",
+    "TOOLS": "Herramientas"
+  },
+  "EXPERIENCE": {
+    "TITLE": "Mi experiencia",
+    "SUBTITLE": "Trayectoria profesional",
+    "EDUCATION": "Educación",
+    "WORK": "Experiencia laboral"
+  },
+  "PORTFOLIO":{
+    "TITLE": "Mis Proyectos",
+    "SUBTITLE": "Explora mi trabajo en desarrollo web, aplicaciones móviles y más. Cada proyecto refleja mi pasión por crear soluciones digitales innovadoras y funcionales.",
+    "ALL": "Todos",
+      "CATEGORY": {
+        "ALL": "All",
+        "FULL STACK": "Full Stack",
+        "FRONTEND": "Frontend",
+        "BACKEND": "Backend",
+        "MOBILE": "Mobile"
+      },
+    "FEATURED": "Proyectos Destacados",
+    "GALLERY": "Galería",
+    "DETAILS": "Detalles",
+    "DEMO": "Demo",
+    "REPO": "Repositorio",
+    "NO_PROJECTS": "No hay proyectos en esta categoría.",
+    "PROJECTS":{
+      "PROJECT1": {
+        "TITLE": "Registro De Control De Asistencia",
+        "DESCRIPTION": "Este Sistema de Control de Asistencia Estudiantil es una solución integral diseñada para optimizar y automatizar el registro, monitoreo y gestión de la asistencia de los estudiantes en instituciones educativas. Su objetivo principal es ofrecer una herramienta eficiente que simplifique la labor administrativa de docentes y personal académico, al tiempo que proporciona datos precisos y en tiempo real sobre la puntualidad y asistencia de los alumnos"
+      },
+      "PROJECT2": {
+        "TITLE": "Sistema Web De Encuestas",
+        "DESCRIPTION": "El Sistema Web de Encuestas Interactivas es una plataforma dinámica y robusta diseñada para la creación, administración, distribución y análisis de encuestas en línea. Desarrollado con el potente framework Laravel, sigue una arquitectura Model-View-Controller (MVC) estricta, asegurando un código modular, escalable y fácil de mantener. La base de datos subyacente es PostgreSQL, elegida por su fiabilidad, rendimiento y capacidad para manejar grandes volúmenes de datos complejos, lo que la hace ideal para el almacenamiento de respuestas de encuestas."
+      },
+      "PROJECT3": {
+        "TITLE": "Sistema Web Hotelero",
+        "DESCRIPTION": "Este Sistema de Administración Hotelera (SAH) es una aplicación web robusta y escalable diseñada para optimizar y centralizar la gestión de las operaciones diarias de hoteles de diversos tamaños. Desarrollado con el potente framework Django y siguiendo rigurosamente el patrón arquitectónico Model-View-Controller (MVC), el sistema ofrece una interfaz intuitiva y funcionalidades completas para la administración eficiente de reservas, huéspedes, habitaciones, servicios y personal"
+      },
+      "PROJECT4": {
+        "TITLE": "Sistema Contable",
+        "DESCRIPTION": "Este es un Sistema Contable Web especializado, diseñado meticulosamente para atender las necesidades específicas de una comercializadora de computadoras y productos tecnológicos. Construido sobre el robusto y elegante framework Laravel, este sistema sigue la arquitectura Model-View-Controller (MVC) para garantizar una solución escalable, segura y de fácil mantenimiento. Utiliza PostgreSQL como motor de base de datos, lo que proporciona una fiabilidad superior, integridad de datos y un alto rendimiento para gestionar el volumen de transacciones contables."
+      },
+      "PROJECT5": {
+        "TITLE": "CRUD Php + MongoDB",
+        "DESCRIPTION": "Este es un Sistema Web diseñado específicamente para fines educativos en ciberseguridad, con el objetivo de demostrar y permitir la experimentación controlada de ataques de fuerza bruta sobre un sistema de autenticación. Desarrollado utilizando PHP en el backend para la lógica de la aplicación y la interfaz, y MongoDB como base de datos NoSQL para el almacenamiento eficiente de credenciales y registros de intentos, el sistema ofrece un entorno práctico para entender las vulnerabilidades y defensas contra este tipo de ataques."
+      },
+      "PROJECT6": {
+        "TITLE": "Facturacion en Linea",
+        "DESCRIPTION": "Este es un Sistema Web de Facturación en Línea integral, diseñado para simplificar y automatizar el proceso de emisión, gestión y envío de facturas electrónicas. Desarrollado con el framework CodeIgniter, conocido por su ligereza y facilidad de uso, el sistema garantiza un alto rendimiento y una curva de aprendizaje reducida. Utiliza PostgreSQL como base de datos robusta, lo que asegura la integridad de los datos, escalabilidad y un manejo eficiente de grandes volúmenes de transacciones financieras."
+      },
+      "PROJECT7": {
+        "TITLE": "Comercializacion De Minerales",
+        "DESCRIPTION": "Este es un Sistema Web de Comercialización Interna de Minerales diseñado para centralizar y optimizar la compraventa y el movimiento de minerales dentro de las fronteras de un país. Desarrollado con el potente framework Laravel, el sistema se adhiere a una arquitectura Model-View-Controller (MVC) robusta, garantizando escalabilidad, seguridad y fácil mantenimiento. PostgreSQL es la base de datos elegida por su capacidad para manejar grandes volúmenes de datos complejos, su fiabilidad y su sólido soporte para transacciones, lo que es crucial para la trazabilidad y la gestión de la cadena de valor de los minerales."
+      },
+      "PROJECT8": {
+        "TITLE": "Exportacion De Minerales",
+        "DESCRIPTION": "Aplicación completa con Angular en el frontend y Nest JS en el backend para gestión de datos con operaciones CRUD. Incluye firma digital, Apis rest, autenticación de usuarios, roles y permisos, validación de formularios y manejo de errores."
+      },
+      "PROJECT9": {
+        "TITLE": "Sistema Academico",
+        "DESCRIPTION": "El sistema se compone de un potente frontend desarrollado con Angular, que proporciona una interfaz de usuario dinámica y responsiva, utilizando el tema administrativo AdminLTE para una estética profesional y funcionalidad intuitiva. El backend está construido con NestJS, un framework progresivo de Node.js que asegura una arquitectura robusta, escalable y mantenible para el manejo de la lógica de negocio y la persistencia de datos."
+      },
+      "PROJECT10": {
+        "TITLE": "Restaurant App",
+        "DESCRIPTION": "El frontend está desarrollado con Angular, un potente framework JavaScript que permite crear Single Page Applications (SPAs) dinámicas e interactivas. La interfaz de usuario se enriquece y estandariza con PrimeNG, una biblioteca de componentes UI de alto rendimiento que garantiza una estética profesional y una usabilidad excepcional. El backend se construye con NestJS, un framework de Node.js que proporciona una arquitectura modular, escalable y mantenible para toda la lógica de negocio y la gestión de datos."
+      }
+    }
+  },
+  "PROJECTS": {
+
+    "TITLE": "Mis Proyectos",
+    "SUBTITLE": "Explora mi trabajo en desarrollo web, aplicaciones móviles y más. Cada proyecto refleja mi pasión por crear soluciones digitales innovadoras y funcionales.",
+    "ALL": "Todos",
+    "CATEGORY": {
+      "ALL": "Todos",
+      "FULL STACK": "Full Stack",
+      "FRONTEND": "Frontend",
+      "BACKEND": "Backend",
+      "MOBILE": "Mobile"
+    },
+    "NO_PROJECTS": "No hay proyectos en esta categoría.",
+    "VIEW_ALL": "Ver todos",
+    "VIEW_DETAILS": "Ver detalles",
+    "VISIT_SITE": "Visitar sitio",
+    "VIEW_CODE": "Ver código",
+    "TECHNOLOGIAS": "Tecnologías utilizadas",
+    "PREV": "Anterior",
+    "NEXT": "Siguiente",
+    "OF": "de"
+  },
+  "CONTACT": {
+    "TITLE": "Contacto",
+    "SUBTITLE": "¿Tienes un proyecto en mente? ¡Hablemos!",
+    "INFO": {
+      "TITLE": "Información de contacto",
+      "ADDRESS": {
+        "LABEL": "Dirección",
+        "VALUE": "Ciudad de Potosi, Bolivia"
+      },
+      "EMAIL": {
+        "LABEL": "Email",
+        "VALUE": "jaime.aspx@gmail.com"
+      },
+      "PHONE": {
+        "LABEL": "Teléfono",
+        "VALUE": "+591 69619127"
+      }
+    },
+    "FORM": {
+      "TITLE": "Envíame un mensaje",
+      "SUBTITLE": "Completa el formulario y me pondré en contacto contigo lo antes posible.",
+      "NAME": {
+        "LABEL": "Nombre",
+        "PLACEHOLDER": "Tu nombre",
+        "REQUIRED": "El nombre es requerido"
+      },
+      "EMAIL": {
+        "LABEL": "Email",
+        "PLACEHOLDER": "Tu email",
+        "REQUIRED": "El email es requerido",
+        "INVALID": "Por favor, ingresa un email válido"
+      },
+      "SUBJECT": {
+        "LABEL": "Asunto",
+        "PLACEHOLDER": "Asunto del mensaje",
+        "REQUIRED": "El asunto es requerido"
+      },
+      "MESSAGE": {
+        "LABEL": "Mensaje",
+        "PLACEHOLDER": "Tu mensaje",
+        "REQUIRED": "El mensaje es requerido"
+      },
+      "SUBMIT": "Enviar mensaje",
+      "SUCCESS": "¡Mensaje enviado con éxito! Me pondré en contacto contigo pronto."
+    },
+    "SOCIAL": {
+      "TITLE": "Sígueme en",
+      "LINKEDIN": "LinkedIn",
+      "GITHUB": "GitHub",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram"
+    }
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2023 Jaime Mamani. Todos los derechos reservados.",
+    "MADE_WITH": "Hecho con",
+    "AND": "y"
+  }
+}
