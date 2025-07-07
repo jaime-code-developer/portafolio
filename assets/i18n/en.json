@@ -1,0 +1,229 @@
+{
+  "HEADER": {
+    "TITLE": "JAIME",
+    "LANGUAGE": "Language",
+    "DARK_MODE": "Dark mode",
+    "LIGHT_MODE": "Light mode"
+  },
+  "SIDEBAR": {
+    "HOME": "Home",
+    "ABOUT": "About me",
+    "SKILLS": "Skills",
+    "EXPERIENCE": "Experience",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact"
+  },
+  "HOME": {
+    "GREETING": "Hi, I am",
+    "NAME": "Jaime",
+    "PROFESSION": "Full Stack Developer",
+    "DESCRIPTION": "Passionate about creating innovative and functional digital solutions.",
+    "BUTTON": "Get to know me",
+    "CONSOLE_TEXT": "console.log(\"Welcome\");",
+    "TERMINAL": {      
+      "LINE1": "Specialized in building modern and responsive web applications",
+      "LINE2": "Passionate about clean code and best development practices",
+      "LINE3": "Always learning new technologies and methodologies"
+    }
+  },
+  "ABOUT": {
+    "BIO_TITLE": "About me",
+    "BIO_TEXT1": "I am a full-stack web developer with experience in Angular, NestJS, Laravel, SpringBoot, NodeJS and more, including SQL and NoSQL databases. I am passionate about building modern and efficient web applications that solve real-world problems.",
+    "BIO_TEXT2": "Currently focused on improving my mobile development skills and learning new technologies like Docker and Kubernetes.",
+    "DOWNLOAD_CV": "Download CV",
+    "SKILLS_TITLE": "Technologies",
+    "TECH": {
+      "ANGULAR": "Angular",
+      "TYPESCRIPT": "TypeScript",
+      "JAVASCRIPT": "JavaScript",
+      "HTML5": "HTML5",
+      "CSS3": "CSS3",
+      "NODEJS": "Node.js",
+      "MONGODB": "MongoDB",
+      "MYSQL": "MySQL",
+      "GIT": "Git",
+      "GITLAB": "Gitlab",
+      "DJANGO": "Django",
+      "DOCKER": "Docker",
+      "DOTNET": "Dotnet",
+      "LARAVEL": "Laravel",
+      "NESTJS": "NestJS",
+      "POSTGRESQL": "PostgreSQL",
+      "SPRINGBOOT": "Springboot",
+      "IONIC": "Ionic",
+      "REACT": "React",
+      "BOOTSTRAP": "Bootstrap",
+      "MARIABD": "MariaDB",
+      "MATERIALDESIGN": "MaterialDesign",
+      "PRIMENG": "PrimeNG"
+    },
+    "EXPERIENCE_TITLE": "Experience",
+    "EXPERIENCE": {
+      "ROLE4": "Full Stack Developer",
+      "COMPANY4": "Ketanolab | 2025 - Present",
+      "DESC4": "Development of web applications with Angular and NestJS. Implementation of scalable architectures and database maintenance.",
+      "ROLE3": "Full Stack Developer",
+      "COMPANY3": "Senarecom | 2022 - 2024",
+      "DESC3": "Responsible for the complete development (frontend and backend) of key modules for managing mining exports in the SINACOM 2 platform. Robust features for seal registration, weighing, and recalculations were implemented to ensure traceability and institutional control.",
+      "ROLE2": "Full Stack Developer",
+      "COMPANY2": "Telecom Potosi | 2020 - 2022",
+      "DESC2": "Created user interfaces using architectural design patterns such as MVC with frameworks like Laravel, CodeIgniter, Django. Implemented responsive designs and performance optimizations. Collaborated in agile projects with Scrum methodology.",
+      "ROLE1": "Junior Web Developer",
+      "COMPANY1": "Facultad De Medicina - UATF | 2018 - 2019",
+      "DESC1": "Developed websites using HTML, CSS, and JavaScript with Bootstrap. Maintained existing applications and fixed bugs. Learned modern frameworks like Angular."
+    }
+  },
+  "SKILLS": {
+    "TITLE": "My skills",
+    "SUBTITLE": "Technologies and tools I master",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "DATABASES": "Databases",
+    "TOOLS": "Tools"
+  },
+  "EXPERIENCE": {
+    "TITLE": "My experience",
+    "SUBTITLE": "Professional background",
+    "EDUCATION": "Education",
+    "WORK": "Work experience"
+  },
+  "PORTFOLIO": {
+    "TITLE": "My Projects",
+    "SUBTITLE": "Explore my work in web development, mobile apps, and more. Each project reflects my passion for building innovative and functional digital solutions.",
+    "ALL": "All",
+    "CATEGORY": {
+      "ALL": "All",
+      "FULL STACK": "Full Stack",
+      "FRONTEND": "Frontend",
+      "BACKEND": "Backend",
+      "MOBILE": "Mobile"
+    },
+    "FEATURED": "Featured Projects",
+    "GALLERY": "Gallery",
+    "DETAILS": "Details",
+    "DEMO": "Demo",
+    "REPO": "Repository",
+    "NO_PROJECTS": "No projects in this category.",
+    "PROJECTS": {
+      "PROJECT1": {
+        "TITLE": "Attendance Control System",
+        "DESCRIPTION": "This Student Attendance Control System is a comprehensive solution designed to optimize and automate the recording, monitoring, and management of student attendance in educational institutions."
+      },
+      "PROJECT2": {
+        "TITLE": "Web Survey System",
+        "DESCRIPTION": "The Interactive Web Survey System is a dynamic and robust platform for creating, managing, distributing, and analyzing online surveys, built using Laravel and PostgreSQL."
+      },
+      "PROJECT3": {
+        "TITLE": "Hotel Management System",
+        "DESCRIPTION": "This Hotel Management System is a scalable web application developed with Django, offering complete and intuitive tools for hotel operations."
+      },
+      "PROJECT4": {
+        "TITLE": "Accounting System",
+        "DESCRIPTION": "A web-based Accounting System tailored for a computer products distributor, built with Laravel and PostgreSQL, ensuring performance and data integrity."
+      },
+      "PROJECT5": {
+        "TITLE": "CRUD Php + MongoDB",
+        "DESCRIPTION": "An educational system designed for cybersecurity testing, simulating brute force attacks on a login system using PHP and MongoDB."
+      },
+      "PROJECT6": {
+        "TITLE": "Online Billing System",
+        "DESCRIPTION": "A complete web billing system using CodeIgniter and PostgreSQL, automating invoice creation and management for businesses."
+      },
+      "PROJECT7": {
+        "TITLE": "Minerals Commercialization System",
+        "DESCRIPTION": "A Laravel-based system for internal minerals trade management, using PostgreSQL for robust transaction and traceability handling."
+      },
+      "PROJECT8": {
+        "TITLE": "Minerals Export System",
+        "DESCRIPTION": "A full-featured application with Angular and NestJS for data management, digital signatures, user roles, and secure APIs."
+      },
+      "PROJECT9": {
+        "TITLE": "Academic System",
+        "DESCRIPTION": "Built with Angular and NestJS, this system manages academic operations with a modern UI based on AdminLTE and a robust backend architecture."
+      },
+      "PROJECT10": {
+        "TITLE": "Restaurant App",
+        "DESCRIPTION": "A dynamic and modular app for restaurants using Angular, PrimeNG, and NestJS, providing an intuitive UI and scalable backend."
+      }
+    }
+  },
+  "PROJECTS": {
+    "TITLE": "My Projects",
+    "SUBTITLE": "Explore my work in web development, mobile apps, and more. Each project reflects my passion for building innovative and functional digital solutions.",
+    "ALL": "All",
+    "CATEGORY": {
+      "ALL": "All",
+      "FULL STACK": "Full Stack",
+      "FRONTEND": "Frontend",
+      "BACKEND": "Backend",
+      "MOBILE": "Mobile"
+    },
+    "NO_PROJECTS": "No projects in this category.",
+    "VIEW_ALL": "View all",
+    "VIEW_DETAILS": "View details",
+    "VISIT_SITE": "Visit site",
+    "VIEW_CODE": "View code",
+    "TECHNOLOGIAS": "Technologies used",
+    "PREV": "Previous",
+    "NEXT": "Next",
+    "OF": "of"
+  },
+  "CONTACT": {
+    "TITLE": "Contact",
+    "SUBTITLE": "Do you have a project in mind? Let's talk!",
+    "INFO": {
+      "TITLE": "Contact Information",
+      "ADDRESS": {
+        "LABEL": "Address",
+        "VALUE": "City of Potosi, Bolivia"
+      },
+      "EMAIL": {
+        "LABEL": "Email",
+        "VALUE": "jaime@gmail.com"
+      },
+      "PHONE": {
+        "LABEL": "Phone",
+        "VALUE": "+591 69619127"
+      }
+    },
+    "FORM": {
+      "TITLE": "Send me a message",
+      "SUBTITLE": "Fill out the form and I'll get back to you as soon as possible.",
+      "NAME": {
+        "LABEL": "Name",
+        "PLACEHOLDER": "Your name",
+        "REQUIRED": "Name is required"
+      },
+      "EMAIL": {
+        "LABEL": "Email",
+        "PLACEHOLDER": "Your email",
+        "REQUIRED": "Email is required",
+        "INVALID": "Please enter a valid email"
+      },
+      "SUBJECT": {
+        "LABEL": "Subject",
+        "PLACEHOLDER": "Message subject",
+        "REQUIRED": "Subject is required"
+      },
+      "MESSAGE": {
+        "LABEL": "Message",
+        "PLACEHOLDER": "Your message",
+        "REQUIRED": "Message is required"
+      },
+      "SUBMIT": "Send message",
+      "SUCCESS": "Message sent successfully! I will contact you soon."
+    },
+    "SOCIAL": {
+      "TITLE": "Follow me on",
+      "LINKEDIN": "LinkedIn",
+      "GITHUB": "GitHub",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram"
+    }
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2023 Jaime Mamani. All rights reserved.",
+    "MADE_WITH": "Made with",
+    "AND": "and"
+  }
+}
